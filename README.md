@@ -1,2 +1,3 @@
-# go-graphql-hworld
-Testing out a hello world schema with GraphQL and Go
+# A starter for GraphQL with Go
+
+A hello world schema with GraphQL and GoLang
