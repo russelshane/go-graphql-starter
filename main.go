@@ -9,7 +9,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Go, GraphQL, Hello World")
 
 	fields := graphql.Fields{
 		"hello": &graphql.Field{
